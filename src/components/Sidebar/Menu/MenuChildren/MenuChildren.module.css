@@ -1,0 +1,14 @@
+.list {
+    margin-left: 20px;
+}
+
+.item {
+    cursor: pointer;
+    font-size: 18px;
+    background-color: gray;
+    padding: 5px 0 5px 15px;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}

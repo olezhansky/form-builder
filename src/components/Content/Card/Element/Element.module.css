@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 20px;
+}
+
+.main {
+    flex: 1 1 100%;
+}
+
+.dragIcon svg {
+    font-size: 20px;
+    margin-right: 10px;
+    cursor: grab;
+}
+
+.fields {
+    flex: 1 1 100%;
+}
+
+.component {
+    flex: 1 1 100%;
+}
